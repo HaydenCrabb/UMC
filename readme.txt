@@ -8,4 +8,4 @@ Based on the twentytwenty Default theme.
 This University Medical Clinic theme is optimized to the look and feel of the Univerisity. 
 This includes advanced blocks for specific purposes requested by Northwest Nazarene University. 
 
-[View Live Site](https://universitymedclinic.com/)
+https://universitymedclinic.com/
