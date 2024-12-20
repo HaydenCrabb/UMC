@@ -1,0 +1,4 @@
+[02-Jan-2024 12:27:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/ixklnrmy/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/ixklnrmy/public_html/wp-content/themes/twentytwenty/404.php on line 10
